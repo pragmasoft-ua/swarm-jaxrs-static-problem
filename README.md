@@ -1,0 +1,1 @@
+# swarm-jaxrs-static-problem
